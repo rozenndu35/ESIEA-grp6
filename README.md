@@ -14,6 +14,8 @@ Le sujet pour 23/01/2023 est :
         "humidity" : "xx"  
     }  
 
+![shema](./ScreenShot/shema.jpg)
+
 ## Rendu:
 - Sur github
 - Code Ardouino
