@@ -1,7 +1,7 @@
 # ESIEA-grp6
 
 ## Enoncer :
-Le sujet pour 23/01/2023 est : 
+Le sujet du 23/01/2023 : 
 1. installer votre esp8266
 2. récupérer la température et l'afficher dans les logs
 3. se connecter au wifi
