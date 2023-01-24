@@ -1,5 +1,6 @@
 # TD2
 
+## Enoncer
 1. Lire la documentation
 
 3. Creer un brocker sur HiveMQ
@@ -12,3 +13,5 @@
       { name: temperature, value Y}  
     ]
 5. Creation de graphe
+
+![shema](./ScreenShot/shema.jpg)
