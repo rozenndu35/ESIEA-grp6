@@ -2,7 +2,7 @@
 
 ## Enoncer
 Contexte: TD1 fait avant
-1. Lire la documentation spec SPB : spark plug b
+1. Lire la documentation spec SPB : sparkplug b
 2. Installer NODE-RED en virtualiser (vm rasbery avec node Red pour parcer et mettre en forme)
 3. Creer un brocker sur HiveMQ (cloud ou locall peut d'importance)
 4. Test    
