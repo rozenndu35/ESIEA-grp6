@@ -7,9 +7,7 @@
 4. Test  
      NODE-RED ---------- > Broker
      spBv1.0/  
-     metrics [  
-      { name: random, value: nawak},  
-     ]
+     metrics [ { name: random, value: nawak} ]
 5. Envoyer les donnée au format :
     ESIEA/grp6  
     {"hum" : x , "temp" : y}  
