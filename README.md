@@ -12,7 +12,7 @@ Le sujet du 23/01/2023 :
         "temperature" : "xx"  
         "humidity" : "xx"  
     }  
-6. Afficher les graphes
+6. Afficher les graphes avec Ignition
 
 ![shema](./ScreenShot/shema.jpg)
 
