@@ -4,8 +4,8 @@
 1. Lire la documentation spec SPB
 2. Installer NODE-RED
 3. Creer un brocker sur HiveMQ
-4. Test  
-     NODE-RED ---------- > Broker
+4. Test    
+     NODE-RED ---------- > Broker  
      spBv1.0/  
      metrics [ { name: random, value: nawak} ]
 5. Envoyer les donnée au format :
