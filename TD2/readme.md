@@ -2,7 +2,7 @@
 
 ## Enoncer
 1. Lire la documentation
-
+2.
 3. Creer un brocker sur HiveMQ
 4. Envoyer les donnée au format :
     ESIEA/grp6  
@@ -14,4 +14,4 @@
     ]
 5. Creation de graphe
 
-![shema](./ScreenShot/shema.jpg)
+![shema](./ScreenShot/shema.jpeg)
