@@ -1,0 +1,7 @@
+- name: Ansible for MQTT prototype
+  hosts: me
+  tasks:
+  - name: Install Mosquitto
+    ansible.builtin.package :
+     name: mosquitto
+     state: present
