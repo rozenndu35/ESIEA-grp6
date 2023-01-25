@@ -19,4 +19,6 @@ Contexte: TD1 fait avant
     ]
 6. Creation de graphe
 
+BONUS : 
+
 ![shema](./ScreenShot/shema.jpeg)
