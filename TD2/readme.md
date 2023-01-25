@@ -12,7 +12,7 @@ Contexte: TD1 fait avant
 5. Envoyer les donnée au format :
     ESIEA/grp6  
     {"hum" : x , "temp" : y}  
-    spBv1.0/grp6/DDATA/raspberry/esp8266  
+    spBv1.0/ESIE/DDATA/raspberry/esp8266_6  
     metrics [  
       { name: humidity, value: x},  
       { name: temperature, value Y}  
